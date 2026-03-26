@@ -48,69 +48,16 @@ Languages:  Vietnamese (Native) · English (Technical Reading)
 
 ---
 
-## 🏛️ Featured Projects
+## 🏛️ Projects
 
 <div align="center">
 
 [![NET201_NHOM03](https://github-readme-stats.vercel.app/api/pin/?username=quanptatb&repo=NET201_NHOM03&theme=tokyonight&bg_color=0d1b2a&title_color=c4a35a&icon_color=c4a35a&text_color=a8b2d1&border_color=1b3a5c)](https://github.com/quanptatb/NET201_NHOM03)
 [![SOF3081_NHOM3](https://github-readme-stats.vercel.app/api/pin/?username=quanptatb&repo=SOF3081_NHOM3&theme=tokyonight&bg_color=0d1b2a&title_color=c4a35a&icon_color=c4a35a&text_color=a8b2d1&border_color=1b3a5c)](https://github.com/quanptatb/SOF3081_NHOM3)
-[![NoName_SOF3042](https://github-readme-stats.vercel.app/api/pin/?username=quanptatb&repo=NoName_SOF3042&theme=tokyonight&bg_color=0d1b2a&title_color=c4a35a&icon_color=c4a35a&text_color=a8b2d1&border_color=1b3a5c)](https://github.com/quanptatb/NoName_SOF3042)
+[![Gimai_Seikatsu](https://github-readme-stats.vercel.app/api/pin/?username=quanptatb&repo=Gimai_Seikatsu&theme=tokyonight&bg_color=0d1b2a&title_color=c4a35a&icon_color=c4a35a&text_color=a8b2d1&border_color=1b3a5c)](https://github.com/quanptatb/Gimai_Seikatsu)
+[![ShopBanHang](https://github-readme-stats.vercel.app/api/pin/?username=quanptatb&repo=ShopBanHang&theme=tokyonight&bg_color=0d1b2a&title_color=c4a35a&icon_color=c4a35a&text_color=a8b2d1&border_color=1b3a5c)](https://github.com/quanptatb/ShopBanHang)
 
 </div>
-
-<details>
-<summary><b>🍔 Fast Food E-Commerce Web Application</b> — <i>Team Project · 2025</i></summary>
-
-<br/>
-
-> **Stack:** `ASP.NET Core 10 MVC` · `EF Core (Code-First)` · `SQL Server` · `SignalR` · `BCrypt` · `Google OAuth`
-
-🔗 [View on GitHub](https://github.com/quanptatb/NET201_NHOM03)
-
-| Feature | Description |
-|:---|:---|
-| 🔐 Authentication | Cookie-based Auth, Google OAuth login, BCrypt password encryption |
-| 🎰 Lucky Wheel | Real-time voucher system using SignalR with rate limiter (1 spin / 3s) |
-| 📦 Database | Code-First EF Core with Lazy Loading Proxies + SQL Server |
-| 🛡️ Admin Panel | Dashboard, voucher & discount management, order management, VIP loyalty tiers |
-| 🛒 Customer | Product search & filter, shopping cart, voucher redemption, loyalty points |
-
-</details>
-
-<details>
-<summary><b>🖥️ Electronics Store Management System</b> — <i>Team Project · 2025</i></summary>
-
-<br/>
-
-> **Stack:** `Vue.js 3 (Composition API)` · `REST API (JSON Server)` · `Firebase OAuth` · `EmailJS` · `Bootstrap 5`
-
-🔗 [View on GitHub](https://github.com/quanptatb/SOF3081_NHOM3)
-
-| Feature | Description |
-|:---|:---|
-| 🔑 Auth | Google OAuth via Firebase + Role-based access (Admin / Customer) |
-| 🔄 API | RESTful integration with Axios — full CRUD on products, orders, carts |
-| 📧 Email | Automated order confirmation via EmailJS on checkout |
-| 🏪 Catalog | Computer hardware store (CPU, GPU, RAM, SSD, HDD) |
-
-</details>
-
-<details>
-<summary><b>📦 Inventory Management System</b> — <i>Team Project · 2024</i></summary>
-
-<br/>
-
-> **Stack:** `ASP.NET Core MVC` · `SQL Server` · `Entity Framework Core`
-
-🔗 [View on GitHub](https://github.com/quanptatb/NoName_SOF3042)
-
-| Feature | Description |
-|:---|:---|
-| 📋 Tracking | Warehouse materials, stock levels, supply transactions |
-| ✏️ CRUD | Material categories, suppliers, stock-in/out records |
-| 🏗️ Architecture | MVC pattern with EF Core + SQL Server persistence |
-
-</details>
 
 ---
 
