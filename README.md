@@ -50,6 +50,14 @@ Languages:  Vietnamese (Native) · English (Technical Reading)
 
 ## 🏛️ Featured Projects
 
+<div align="center">
+
+[![NET201_NHOM03](https://github-readme-stats.vercel.app/api/pin/?username=quanptatb&repo=NET201_NHOM03&theme=tokyonight&bg_color=0d1b2a&title_color=c4a35a&icon_color=c4a35a&text_color=a8b2d1&border_color=1b3a5c)](https://github.com/quanptatb/NET201_NHOM03)
+[![SOF3081_NHOM3](https://github-readme-stats.vercel.app/api/pin/?username=quanptatb&repo=SOF3081_NHOM3&theme=tokyonight&bg_color=0d1b2a&title_color=c4a35a&icon_color=c4a35a&text_color=a8b2d1&border_color=1b3a5c)](https://github.com/quanptatb/SOF3081_NHOM3)
+[![NoName_SOF3042](https://github-readme-stats.vercel.app/api/pin/?username=quanptatb&repo=NoName_SOF3042&theme=tokyonight&bg_color=0d1b2a&title_color=c4a35a&icon_color=c4a35a&text_color=a8b2d1&border_color=1b3a5c)](https://github.com/quanptatb/NoName_SOF3042)
+
+</div>
+
 <details>
 <summary><b>🍔 Fast Food E-Commerce Web Application</b> — <i>Team Project · 2025</i></summary>
 
@@ -57,7 +65,7 @@ Languages:  Vietnamese (Native) · English (Technical Reading)
 
 > **Stack:** `ASP.NET Core 10 MVC` · `EF Core (Code-First)` · `SQL Server` · `SignalR` · `BCrypt` · `Google OAuth`
 
-🔗 [View on GitHub](https://github.com/quanptatb)
+🔗 [View on GitHub](https://github.com/quanptatb/NET201_NHOM03)
 
 | Feature | Description |
 |:---|:---|
@@ -76,7 +84,7 @@ Languages:  Vietnamese (Native) · English (Technical Reading)
 
 > **Stack:** `Vue.js 3 (Composition API)` · `REST API (JSON Server)` · `Firebase OAuth` · `EmailJS` · `Bootstrap 5`
 
-🔗 [View on GitHub](https://github.com/quanptatb)
+🔗 [View on GitHub](https://github.com/quanptatb/SOF3081_NHOM3)
 
 | Feature | Description |
 |:---|:---|
@@ -88,13 +96,13 @@ Languages:  Vietnamese (Native) · English (Technical Reading)
 </details>
 
 <details>
-<summary><b>📦 Inventory Management System</b> — <i>Final Project · 2024</i></summary>
+<summary><b>📦 Inventory Management System</b> — <i>Team Project · 2024</i></summary>
 
 <br/>
 
 > **Stack:** `ASP.NET Core MVC` · `SQL Server` · `Entity Framework Core`
 
-🔗 [View on GitHub](https://github.com/quanptatb)
+🔗 [View on GitHub](https://github.com/quanptatb/NoName_SOF3042)
 
 | Feature | Description |
 |:---|:---|
