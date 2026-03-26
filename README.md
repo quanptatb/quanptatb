@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Banner" width="100%" />
-
 # ✦ Phạm Trần Anh Quân ✦
 
 *"The stage is set, the code shall judge — and I shall deliver the verdict."*
