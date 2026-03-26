@@ -4,7 +4,7 @@
 
 *"The stage is set, the code shall judge — and I shall deliver the verdict."*
 
-[![GitHub](https://img.shields.io/badge/GitHub-quanptatb-0d1b2a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quanptatb)
+[![GitHub](https://img.shields.io/badge/GitHub-quanptatb-0d1b2a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quanptatb)  <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-quan.pta.dev@gmail.com-c4a35a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quan.pta.dev@gmail.com)
 
 ---
