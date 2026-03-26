@@ -1,167 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,40:1a3a6e,80:2e7fb8,100:6ec6f0&height=220&section=header&text=Phạm%20Trần%20Anh%20Quân&fontSize=42&fontColor=e8f6ff&fontAlignY=38&desc=『%20The%20curtain%20rises%20—%20and%20the%20code%20begins%20』&descAlignY=60&descSize=15&animation=fadeIn&fontAlign=50" width="100%"/>
+<img src="assets/banner.png" alt="Banner" width="100%" />
 
-<br/>
+# ✦ Phạm Trần Anh Quân ✦
 
-<a href="https://github.com/quanptatb">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=22&pause=1000&color=6EC6F0&center=true&vCenter=true&width=600&lines=Student+%7C+Developer+%7C+Eternal+Learner;Every+bug+fixed+is+a+curtain+call+earned.;Writing+code+as+if+the+world+is+watching.;%E3%80%98+Hydro+Enjoyer+%7C+Blue+Aesthetic+%E3%80%99" alt="Typing SVG" />
-</a>
+*"The stage is set, the code shall judge — and I shall deliver the verdict."*
 
-<br/><br/>
+[![GitHub](https://img.shields.io/badge/GitHub-quanptatb-0d1b2a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quanptatb)
+[![Gmail](https://img.shields.io/badge/Gmail-quan.pta.dev@gmail.com-c4a35a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quan.pta.dev@gmail.com)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%"/>
+---
+
+> 🎭 *"Every line of code is a performance — precision, elegance, and purpose."*
 
 </div>
 
-<br/>
-
-## ✦ &nbsp; Act I — *Who am I?*
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhwZHhod2E4NDVycDc2bmRwZHZiYnllaXE4MHVhM3NoZTlvMHhxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" style="border-radius:12px; margin-left:20px; box-shadow: 0 4px 8px rgba(110, 198, 240, 0.2);"/>
+## 🌊 About Me
 
 ```yaml
-name     : Phạm Trần Anh Quân
-alias    : quanptatb
-role     : Student Developer
-school   : FPT Polytechnic Đồng Nai
-location : Việt Nam 🇻🇳
-status   : "Studying... always studying."
-element  : 💧 Water (calm on surface, turbulent beneath)
-aesthetic: Elegant · Theatrical · Deep Blue
+Name:       Phạm Trần Anh Quân
+Title:      .NET Software Developer
+Education:  FPT Polytechnic College — Software Development (.NET)
+Period:     2023 – Present
+Class:      SD21305
+Languages:  Vietnamese (Native) · English (Technical Reading)
 ```
 
-> *"Not all who write in silence are without ambition —*
-> *some are simply saving their performance for the right stage."*
-
-<br/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C4A35A&center=true&vCenter=true&width=600&lines=%E2%9C%A6+.NET+%7C+ASP.NET+Core+%7C+SQL+Server+%E2%9C%A6;%E2%9C%A6+Vue.js+%7C+SignalR+%7C+Entity+Framework+%E2%9C%A6;%E2%9C%A6+Building+elegant+solutions+%E2%9C%A6" alt="Typing SVG" />
+</div>
 
 ---
 
-## ✦ &nbsp; Act II — *The Craft*
+## ⚖️ Tech Arsenal  
 
 <div align="center">
 
-### ⚙️ Languages & Technologies
-
-![C#](https://img.shields.io/badge/C%23-%230d1b40?style=for-the-badge&logo=csharp&logoColor=6EC6F0)
-![.NET](https://img.shields.io/badge/.NET-%230d1b40?style=for-the-badge&logo=dotnet&logoColor=6EC6F0)
-![HTML5](https://img.shields.io/badge/HTML5-%230d1b40?style=for-the-badge&logo=html5&logoColor=6EC6F0)
-![CSS3](https://img.shields.io/badge/CSS3-%230d1b40?style=for-the-badge&logo=css3&logoColor=6EC6F0)
-![JavaScript](https://img.shields.io/badge/JavaScript-%230d1b40?style=for-the-badge&logo=javascript&logoColor=6EC6F0)
-![Vue.js](https://img.shields.io/badge/Vue.js-%230d1b40?style=for-the-badge&logo=vuedotjs&logoColor=6EC6F0)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%230d1b40?style=for-the-badge&logo=microsoftsqlserver&logoColor=6EC6F0)
-
-### 🛠️ Tools & Platforms
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%230d1b40?style=for-the-badge&logo=visualstudio&logoColor=6EC6F0)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230d1b40?style=for-the-badge&logo=visualstudiocode&logoColor=6EC6F0)
-![Git](https://img.shields.io/badge/Git-%230d1b40?style=for-the-badge&logo=git&logoColor=6EC6F0)
-![GitHub](https://img.shields.io/badge/GitHub-%230d1b40?style=for-the-badge&logo=github&logoColor=6EC6F0)
+| Domain | Technologies |
+|:---|:---|
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Frameworks** | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_10-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
+| **Auth** | ![Cookie Auth](https://img.shields.io/badge/Cookie_Auth-0d1b2a?style=flat-square) ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white) ![BCrypt](https://img.shields.io/badge/BCrypt-1b3a5c?style=flat-square) |
+| **Real-time** | ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **Database** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![JSON Server](https://img.shields.io/badge/JSON_Server-000000?style=flat-square&logo=json&logoColor=white) |
+| **Tools** | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Concepts** | `MVC Architecture` · `Code-First EF` · `CRUD` · `RBAC` · `REST API` |
 
 </div>
 
+---
+
+## 🏛️ Featured Projects
+
+<details>
+<summary><b>🍔 Fast Food E-Commerce Web Application</b> — <i>Team Project · 2025</i></summary>
+
 <br/>
+
+> **Stack:** `ASP.NET Core 10 MVC` · `EF Core (Code-First)` · `SQL Server` · `SignalR` · `BCrypt` · `Google OAuth`
+
+🔗 [View on GitHub](https://github.com/quanptatb)
+
+| Feature | Description |
+|:---|:---|
+| 🔐 Authentication | Cookie-based Auth, Google OAuth login, BCrypt password encryption |
+| 🎰 Lucky Wheel | Real-time voucher system using SignalR with rate limiter (1 spin / 3s) |
+| 📦 Database | Code-First EF Core with Lazy Loading Proxies + SQL Server |
+| 🛡️ Admin Panel | Dashboard, voucher & discount management, order management, VIP loyalty tiers |
+| 🛒 Customer | Product search & filter, shopping cart, voucher redemption, loyalty points |
+
+</details>
+
+<details>
+<summary><b>🖥️ Electronics Store Management System</b> — <i>Team Project · 2025</i></summary>
+
+<br/>
+
+> **Stack:** `Vue.js 3 (Composition API)` · `REST API (JSON Server)` · `Firebase OAuth` · `EmailJS` · `Bootstrap 5`
+
+🔗 [View on GitHub](https://github.com/quanptatb)
+
+| Feature | Description |
+|:---|:---|
+| 🔑 Auth | Google OAuth via Firebase + Role-based access (Admin / Customer) |
+| 🔄 API | RESTful integration with Axios — full CRUD on products, orders, carts |
+| 📧 Email | Automated order confirmation via EmailJS on checkout |
+| 🏪 Catalog | Computer hardware store (CPU, GPU, RAM, SSD, HDD) |
+
+</details>
+
+<details>
+<summary><b>📦 Inventory Management System</b> — <i>Final Project · 2024</i></summary>
+
+<br/>
+
+> **Stack:** `ASP.NET Core MVC` · `SQL Server` · `Entity Framework Core`
+
+🔗 [View on GitHub](https://github.com/quanptatb)
+
+| Feature | Description |
+|:---|:---|
+| 📋 Tracking | Warehouse materials, stock levels, supply transactions |
+| ✏️ CRUD | Material categories, suppliers, stock-in/out records |
+| 🏗️ Architecture | MVC pattern with EF Core + SQL Server persistence |
+
+</details>
 
 ---
 
-## ✦ &nbsp; Act III — *The Journey*
+## 📊 GitHub Stats
 
 <div align="center">
 
-```
-🎓  Currently studying at FPT Polytechnic Đồng Nai
-🌱  Learning ASP.NET Core MVC & Full-stack Development
-💻  Building web apps with C#, .NET & SQL Server
-🎯  Goal: Become a skilled .NET Developer
-🎭  Fun fact: I treat every project like a theatrical performance
-```
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=quanptatb&show_icons=true&theme=tokyonight&bg_color=0d1b2a&title_color=c4a35a&icon_color=c4a35a&text_color=a8b2d1&border_color=1b3a5c&hide_border=false" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanptatb&layout=compact&theme=tokyonight&bg_color=0d1b2a&title_color=c4a35a&text_color=a8b2d1&border_color=1b3a5c&hide_border=false" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=quanptatb&theme=tokyonight&background=0d1b2a&ring=c4a35a&fire=c4a35a&currStreakLabel=c4a35a&sideLabels=a8b2d1&dates=a8b2d1&border=1b3a5c" alt="GitHub Streak" />
 
 </div>
 
-<br/>
-
 ---
 
-## ✦ &nbsp; Act IV — *The Stats*
+## 🤝 Soft Skills
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=quanptatb&show_icons=true&theme=transparent&title_color=6EC6F0&text_color=c9e8f8&icon_color=2e7fb8&border_color=1a3a6e&border_radius=12" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanptatb&layout=compact&theme=transparent&title_color=6EC6F0&text_color=c9e8f8&border_color=1a3a6e&border_radius=12" height="160"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=quanptatb&theme=transparent&hide_border=false&border=1a3a6e&stroke=1a3a6e&ring=6EC6F0&fire=2e7fb8&currStreakNum=c9e8f8&sideNums=c9e8f8&currStreakLabel=6EC6F0&sideLabels=6EC6F0&dates=6a9abd&border_radius=12" height="160"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=quanptatb&bg_color=0a0e27&color=6EC6F0&line=2e7fb8&point=6ec6f0&area=true&area_color=1a3a6e&hide_border=false&custom_title=💧%20Contribution%20Flow&border_color=1a3a6e&border_radius=12" width="90%"/>
+`🎯 Team Collaboration (Git/GitHub)` · `📚 Self-Learning` · `🧩 Problem-Solving` · `⏰ Time Management`
 
 </div>
 
-<br/>
-
 ---
-
-## ✦ &nbsp; Act V — *Featured Projects*
 
 <div align="center">
 
-<a href="https://github.com/quanptatb/quanptatb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quanptatb&repo=quanptatb&theme=transparent&title_color=6EC6F0&text_color=c9e8f8&icon_color=2e7fb8&border_color=1a3a6e&border_radius=12" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=120&section=footer&text=&fontSize=0" width="100%" />
 
-</div>
+*✦ "The curtain never falls on those who keep writing." ✦*
 
-> 💡 *More projects coming soon — the curtain is still rising.*
-
-<br/>
-
----
-
-## ✦ &nbsp; Act VI — *The Stage is Open*
-
-<div align="center">
-
-> *「 Every line of code is a promise made to the future. 」*
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quanptatb/quanptatb/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quanptatb/quanptatb/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/quanptatb/quanptatb/output/github-snake-dark.svg" width="90%"/>
-</picture>
-
-<br/><br/>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=quanptatb&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" width="90%"/>
-
-<br/><br/>
-
-### ✉️ Find me here
-
-[![Facebook](https://img.shields.io/badge/Facebook-QuanBox.CLS.018-%230d1b40?style=for-the-badge&logo=facebook&logoColor=6EC6F0)](https://www.facebook.com/QuanBox.CLS.018)
-[![GitHub](https://img.shields.io/badge/GitHub-quanptatb-%230d1b40?style=for-the-badge&logo=github&logoColor=6EC6F0)](https://github.com/quanptatb)
-
-<br/><br/>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=quanptatb&color=2e7fb8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ec6f0,50:2e7fb8,100:0a0e27&height=140&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>
-  ⚖️ &nbsp; <i>Composed under the weight of deadlines & the elegance of clean code.</i> &nbsp; 💧
-</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=quanptatb&color=0d1b2a&style=flat-square&label=Audience+Count)
 
 </div>
