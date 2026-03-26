@@ -1,122 +1,60 @@
 <div align="center">
 
-<!-- Furina Hydro Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b8a,50:4a9ebf,100:7ecfea&height=200&section=header&text=Phạm%20Trần%20Anh%20Quân&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=「%20The%20stage%20is%20set.%20Let%20the%20code%20begin.%20」&descAlignY=58&descSize=16&descColor=c8e8f5&animation=twinkling" width="100%"/>
-
-<!-- Furina Quote -->
-<br/>
-
-```
-✦ — Abyss or summit, I shall face it with elegance. — ✦
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,40:1a3a6e,80:2e7fb8,100:6ec6f0&height=220&section=header&text=Phạm%20Trần%20Anh%20Quân&fontSize=42&fontColor=e8f6ff&fontAlignY=38&desc=『%20The%20curtain%20rises%20—%20and%20the%20code%20begins%20』&descAlignY=60&descSize=15&animation=fadeIn&fontAlign=50" width="100%"/>
 
 <br/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=18&duration=3000&pause=1000&color=4A9EBF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-Stack+Developer+in+the+Making;Crafting+code+like+Furina+crafts+drama+%F0%9F%92%A7;C%23+%7C+Vue.js+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+<a href="https://github.com/quanptatb">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=22&pause=1000&color=6EC6F0&center=true&vCenter=true&width=600&lines=Student+%7C+Developer+%7C+Eternal+Learner;Every+bug+fixed+is+a+curtain+call+earned.;Writing+code+as+if+the+world+is+watching.;%E3%80%98+Hydro+Enjoyer+%7C+Blue+Aesthetic+%E3%80%99" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Hydro Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%"/>
 
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px"/> &nbsp; Về tôi &nbsp;`// About Me`
+## ✦ &nbsp; Act I — *Who am I?*
 
-<img align="right" width="280" src="https://i.pinimg.com/originals/f4/54/46/f45446ec3a8fe93e97b3e7e9edf78ff2.gif" alt="Furina gif"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhwZHhod2E4NDVycDc2bmRwZHZiYnllaXE4MHVhM3NoZTlvMHhxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" style="border-radius:12px; margin-left:20px;"/>
 
 ```yaml
-name:     Phạm Trần Anh Quân
-alias:    quanptatb
-role:     Student Developer
-status:   📚 Đang học — đang tiến hóa
-location: 🇻🇳 Việt Nam
-
-currently_learning:
-  - .NET & C# Backend
-  - Vue.js Frontend
-  - Web Architecture
-
-philosophy: >
-  "Like Furina held Fontaine for 500 years —
-   I'll hold the debug console til it works."
-
-fun_fact: >
-  Tôi code bằng caffeine
-  và năng lượng của Hydro Archon ⚡💧
+name     : Phạm Trần Anh Quân
+alias    : quanptatb
+role     : Student Developer
+location : Việt Nam 🇻🇳
+status   : "Studying... always studying."
+element  : 💧 Water  (calm on surface, turbulent beneath)
+aesthetic: Elegant · Theatrical · Deep Blue
 ```
 
-<br/>
-
----
-
-## 💧 Kỹ Năng &nbsp;`// Tech Stack`
-
-<div align="center">
-
-**Backend & Languages**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 🎭 GitHub Stats &nbsp;`// My Stage`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quanptatb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_color=4a9ebf&bg_color=0d1b2a&title_color=7ecfea&icon_color=c8a951&text_color=c8e8f5&hide_border=false&ring_color=4a9ebf"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanptatb&layout=compact&theme=algolia&border_color=4a9ebf&bg_color=0d1b2a&title_color=7ecfea&text_color=c8e8f5&hide_border=false"/>
+> *"Not all who write in silence are without ambition —*
+> *some are simply saving their performance for the right stage."*
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=quanptatb&theme=highcontrast&background=0d1b2a&border=4a9ebf&stroke=4a9ebf&ring=7ecfea&fire=c8a951&currStreakNum=ffffff&sideNums=c8e8f5&currStreakLabel=7ecfea&sideLabels=4a9ebf&dates=7a9cb0" width="60%"/>
-
-</div>
-
 ---
 
-## 🌊 Contribution Graph
+## ✦ &nbsp; Act II — *The Craft*
 
 <div align="center">
 
-[![Quan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quanptatb&bg_color=0d1b2a&color=7ecfea&line=4a9ebf&point=c8a951&area=true&area_color=1a6b8a&hide_border=false&border_color=4a9ebf&title_color=7ecfea)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### ⚙️ Languages & Technologies
 
-</div>
+![C#](https://img.shields.io/badge/C%23-%230d1b40?style=for-the-badge&logo=csharp&logoColor=6EC6F0)
+![HTML5](https://img.shields.io/badge/HTML5-%230d1b40?style=for-the-badge&logo=html5&logoColor=6EC6F0)
+![CSS3](https://img.shields.io/badge/CSS3-%230d1b40?style=for-the-badge&logo=css3&logoColor=6EC6F0)
+![Vue.js](https://img.shields.io/badge/Vue.js-%230d1b40?style=for-the-badge&logo=vuedotjs&logoColor=6EC6F0)
+![JavaScript](https://img.shields.io/badge/JavaScript-%230d1b40?style=for-the-badge&logo=javascript&logoColor=6EC6F0)
 
----
+### 🛠️ Tools & Platforms
 
-## 🎪 Dự Án Nổi Bật &nbsp;`// Featured Projects`
-
-<div align="center">
-
-<a href="https://github.com/quanptatb/NET201_NHOM03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quanptatb&repo=NET201_NHOM03&theme=algolia&border_color=4a9ebf&bg_color=0d1b2a&title_color=c8a951&icon_color=7ecfea&text_color=c8e8f5" />
-</a>
-<a href="https://github.com/quanptatb/SOF3081_NHOM3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quanptatb&repo=SOF3081_NHOM3&theme=algolia&border_color=4a9ebf&bg_color=0d1b2a&title_color=c8a951&icon_color=7ecfea&text_color=c8e8f5" />
-</a>
+![Git](https://img.shields.io/badge/Git-%230d1b40?style=for-the-badge&logo=git&logoColor=6EC6F0)
+![GitHub](https://img.shields.io/badge/GitHub-%230d1b40?style=for-the-badge&logo=github&logoColor=6EC6F0)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%230d1b40?style=for-the-badge&logo=visualstudio&logoColor=6EC6F0)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230d1b40?style=for-the-badge&logo=visualstudiocode&logoColor=6EC6F0)
 
 </div>
 
@@ -124,41 +62,43 @@ fun_fact: >
 
 ---
 
-## ✨ Furina's Wisdom &nbsp;`// Dev Philosophy`
+## ✦ &nbsp; Act III — *The Stats*
 
 <div align="center">
 
-> *"The water always finds its way — and so does a good developer."*
-> &nbsp;&nbsp;— **Furina**, probably
+<img src="https://github-readme-stats.vercel.app/api?username=quanptatb&show_icons=true&theme=transparent&title_color=6EC6F0&text_color=c9e8f8&icon_color=2e7fb8&border_color=1a3a6e&border_radius=12" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanptatb&layout=compact&theme=transparent&title_color=6EC6F0&text_color=c9e8f8&border_color=1a3a6e&border_radius=12" height="160"/>
 
-<br/>
+<br/><br/>
 
-```
-💧  Debug với kiên nhẫn của Focalors
-🎭  Present với sự tự tin của Furina  
-⚔️  Code với tinh thần của một Archon
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=quanptatb&theme=transparent&hide_border=false&border=1a3a6e&stroke=1a3a6e&ring=6EC6F0&fire=2e7fb8&currStreakNum=c9e8f8&sideNums=c9e8f8&currStreakLabel=6EC6F0&sideLabels=6EC6F0&dates=6a9abd&border_radius=12" height="160"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 📬 Kết Nối &nbsp;`// Connect`
+## ✦ &nbsp; Act IV — *The Stage is Open*
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-QuanBox.CLS.018-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/QuanBox.CLS.018)
-[![GitHub](https://img.shields.io/badge/GitHub-quanptatb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quanptatb)
+> *「 Every line of code is a promise made to the future. 」*
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=quanptatb.quanptatb&color=4a9ebf&style=for-the-badge)
+### ✉️ Find me here
+
+[![Facebook](https://img.shields.io/badge/Facebook-QuanBox.CLS.018-%230d1b40?style=for-the-badge&logo=facebook&logoColor=6EC6F0)](https://www.facebook.com/QuanBox.CLS.018)
+[![GitHub](https://img.shields.io/badge/GitHub-quanptatb-%230d1b40?style=for-the-badge&logo=github&logoColor=6EC6F0)](https://github.com/quanptatb)
 
 <br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ecfea,50:4a9ebf,100:1a6b8a&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ec6f0,50:2e7fb8,100:0a0e27&height=140&section=footer&animation=fadeIn" width="100%"/>
 
-*✦ Made with 💧 & the blessing of the Hydro Archon ✦*
+<sub>
+  ⚖️ &nbsp; <i>Composed under the weight of deadlines & the elegance of clean code.</i> &nbsp; 💧
+</sub>
 
 </div>
