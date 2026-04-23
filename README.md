@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=FF5CAA&center=true&vCenter=true&width=720&lines=Anime-inspired+.NET+Developer;Clean+APIs.+Sharp+UI.+Reliable+Data.;ASP.NET+Core+%7C+Vue.js+%7C+SQL+Server" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=FF5CAA&center=true&vCenter=true&width=720&lines=Neon+.NET+Developer;Clean+APIs.+Sharp+UI.+Reliable+Data.;ASP.NET+Core+%7C+Vue.js+%7C+SQL+Server" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
   <a href="https://github.com/quanptatb">
     <img src="https://img.shields.io/badge/GitHub-quanptatb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Theme-anime%20neon-FF5CAA?style=for-the-badge" alt="Anime neon theme" />
+  <img src="https://img.shields.io/badge/Theme-neon%20dev-FF5CAA?style=for-the-badge" alt="Neon dev theme" />
 </p>
 
 <p align="center">
-  <img src="./assets/anime-divider.svg" alt="Anime neon divider" width="100%" />
+  <img src="./assets/neon-divider.svg" alt="Neon divider" width="100%" />
 </p>
 
 ---
@@ -112,7 +112,7 @@ I am a .NET-focused software development student at FPT Polytechnic, building we
 ---
 
 <p align="center">
-  <img src="./assets/anime-divider.svg" alt="Anime neon divider" width="100%" />
+  <img src="./assets/neon-divider.svg" alt="Neon divider" width="100%" />
 </p>
 
 <p align="center">
