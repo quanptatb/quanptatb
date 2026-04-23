@@ -1,12 +1,16 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Phạm Trần Anh Quân - .NET Software Developer" width="100%" />
-</p>
-
 <h1 align="center">Phạm Trần Anh Quân</h1>
 
 <p align="center">
   <strong>.NET Software Developer</strong><br />
   ASP.NET Core · Entity Framework Core · SQL Server · Vue.js
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=FF5CAA&center=true&vCenter=true&width=720&lines=Anime-inspired+.NET+Developer;Clean+APIs.+Sharp+UI.+Reliable+Data.;ASP.NET+Core+%7C+Vue.js+%7C+SQL+Server" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <em>"Code like a final episode: focused, polished, and worth the wait."</em>
 </p>
 
 <p align="center">
@@ -16,6 +20,11 @@
   <a href="https://github.com/quanptatb">
     <img src="https://img.shields.io/badge/GitHub-quanptatb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <img src="https://img.shields.io/badge/Theme-anime%20neon-FF5CAA?style=for-the-badge" alt="Anime neon theme" />
+</p>
+
+<p align="center">
+  <img src="./assets/anime-divider.svg" alt="Anime neon divider" width="100%" />
 </p>
 
 ---
@@ -28,6 +37,12 @@ I am a .NET-focused software development student at FPT Polytechnic, building we
 - Class: SD21305
 - Focus: backend APIs, database design, authentication, realtime features, and clean user-facing workflows
 - Languages: Vietnamese native, English technical reading
+
+## Developer Mode
+
+| Role | Current Arc | Style |
+| --- | --- | --- |
+| .NET Software Developer | ASP.NET Core, EF Core, Vue.js, SQL Server | Clean APIs, sharp interfaces, reliable data flows |
 
 ## Technical Skills
 
@@ -83,8 +98,8 @@ I am a .NET-focused software development student at FPT Polytechnic, building we
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quanptatb&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanptatb&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quanptatb&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&title_color=FF5CAA&icon_color=FDE68A" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanptatb&layout=compact&hide_border=true&theme=tokyonight&title_color=FF5CAA" alt="Top languages" />
 </p>
 
 ## Professional Strengths
@@ -97,5 +112,9 @@ I am a .NET-focused software development student at FPT Polytechnic, building we
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quanptatb&style=flat-square&color=0E75B6&label=Profile+views" alt="Profile views" />
+  <img src="./assets/anime-divider.svg" alt="Anime neon divider" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=quanptatb&style=flat-square&color=FF5CAA&label=Profile+views" alt="Profile views" />
 </p>
