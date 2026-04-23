@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=FF5CAA&center=true&vCenter=true&width=720&lines=Neon+.NET+Developer;Clean+APIs.+Sharp+UI.+Reliable+Data.;ASP.NET+Core+%7C+Vue.js+%7C+SQL+Server" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=FF5CAA&center=true&vCenter=true&width=720&lines=Phạm+Trần+Anh+Quân;Clean+APIs.+Sharp+UI.+Reliable+Data.;ASP.NET+Core+%7C+Vue.js+%7C+SQL+Server" alt="Typing animation" />
 </p>
 
 <p align="center">
