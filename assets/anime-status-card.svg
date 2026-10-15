@@ -144,7 +144,7 @@
 
     <!-- Skill 1: C# & ASP.NET Core -->
     <g transform="translate(0, 30)">
-      <text x="0" y="12" fill="#fbcfe8" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="600">⚡ C# &amp; ASP.NET Core APIs</text>
+      <text x="0" y="12" fill="#fbcfe8" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="600">⚡ .NET 10 &amp; ASP.NET Core APIs</text>
       <text x="390" y="12" text-anchor="end" fill="#f472b6" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">95%</text>
       <rect x="0" y="20" width="390" height="10" rx="5" fill="#1a1829" />
       <rect x="0" y="20" width="370" height="10" rx="5" fill="url(#skillGrad)" filter="url(#neonFilter)" />
@@ -166,9 +166,9 @@
       <rect x="0" y="20" width="320" height="10" rx="5" fill="url(#skillGrad)" filter="url(#neonFilter)" />
     </g>
 
-    <!-- Skill 4: Architecture & Realtime -->
+    <!-- Skill 4: Architecture & AI Integration -->
     <g transform="translate(0, 174)">
-      <text x="0" y="12" fill="#fbcfe8" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="600">🔮 RESTful APIs &amp; SignalR Realtime</text>
+      <text x="0" y="12" fill="#fbcfe8" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="600">🤖 AI Advisory &amp; RAG Workflows</text>
       <text x="390" y="12" text-anchor="end" fill="#f472b6" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">88%</text>
       <rect x="0" y="20" width="390" height="10" rx="5" fill="#1a1829" />
       <rect x="0" y="20" width="343" height="10" rx="5" fill="url(#skillGrad)" filter="url(#neonFilter)" />

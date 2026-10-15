@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=F472B6&center=true&vCenter=true&width=800&lines=%F0%9F%8C%B8+Anime-inspired+.NET+Software+Developer+%F0%9F%8C%B8;%E2%9A%94%EF%B8%8F+Crafting+High-Performance+Web+APIs+with+ASP.NET+Core;%E2%9C%A8+Building+Reactive+%26+Sharp+Interfaces+with+Vue.js;%F0%9F%92%BE+Mastering+SQL+Server%2C+EF+Core+%26+Database+Architecture;%F0%9F%93%9C+%22Code+like+a+final+episode%3A+focused%2C+polished%2C+and+worth+the+wait.%22" alt="Anime Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=F472B6&center=true&vCenter=true&width=800&lines=%F0%9F%8C%B8+Anime-inspired+.NET+Software+Developer+%F0%9F%8C%B8;%E2%9A%94%EF%B8%8F+Crafting+High-Performance+Web+APIs+with+.NET+10+%26+ASP.NET+Core;%F0%9F%A4%96+Integrating+Intelligent+AI+Advisors+%26+RAG+Workflows;%E2%9C%A8+Building+Reactive+%26+Sharp+Interfaces+with+Vue.js;%F0%9F%92%BE+Mastering+SQL+Server%2C+EF+Core+%26+Database+Architecture;%F0%9F%93%9C+%22Code+like+a+final+episode%3A+focused%2C+polished%2C+and+worth+the+wait.%22" alt="Anime Typing Animation" />
 </p>
 
 <p align="center">
@@ -49,17 +49,19 @@ I am a .NET-focused software development student currently in my FPT Polytechnic
 
 <table>
   <tr>
-    <th width="50%" align="left">🔮 Backend Sorcery</th>
+    <th width="50%" align="left">🔮 Backend &amp; Architecture Sorcery</th>
     <th width="50%" align="left">🎨 Frontend Alchemy</th>
   </tr>
   <tr>
     <td valign="top">
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
+      <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
       <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
       <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
       <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR" />
       <img src="https://img.shields.io/badge/RESTful_APIs-f472b6?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis Cache" />
+      <img src="https://img.shields.io/badge/AI_RAG_Integration-38bdf8?style=flat-square&logo=openai&logoColor=white" alt="AI RAG" />
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
@@ -85,6 +87,7 @@ I am a .NET-focused software development student currently in my FPT Polytechnic
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
     </td>
   </tr>
 </table>
@@ -94,6 +97,40 @@ I am a .NET-focused software development student currently in my FPT Polytechnic
 ## 🗺️ Quest Log // Featured Projects
 
 <table>
+  <!-- Top Tier: Enterprise & AI Solutions -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌟 <a href="https://github.com/nhubui2008/Manage-KPI-or-OKR-System">Manage-KPI-or-OKR-System</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/NextGen_Team-Core_Contributor-f472b6?style=flat-square&logo=github&logoColor=white" alt="NextGen Team" />
+        <img src="https://img.shields.io/badge/Collaborative-Enterprise_Project-c084fc?style=flat-square" alt="Collaborative" />
+      </p>
+      <p><em>Enterprise-grade KPI &amp; OKR management platform integrated with AI Advisors (DeepSeek &amp; Gemini RAG), automated check-in evaluations, 45+ EF Core entity models, and robust SQL Server architecture.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+        <img src="https://img.shields.io/badge/AI_Gateway-DeepSeek%20%7C%20Gemini-38bdf8?style=flat-square&logo=openai&logoColor=white" alt="AI Gateway" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔮 <a href="https://github.com/quanptatb/OmniBizAI">OmniBizAI</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Creator%20%26%20Lead%20Dev-38bdf8?style=flat-square" alt="Lead Dev" />
+      </p>
+      <p><em>Modern .NET 10 ERP &amp; business intelligence suite featuring OKR/KPI setup, CRM pipelines, inventory logistics, Redis caching, and automated multi-stage approval workflows.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- Full-Stack & Creative Realms -->
   <tr>
     <td width="50%" valign="top">
       <h3>🌸 <a href="https://github.com/quanptatb/Gimai_Seikatsu">Gimai_Seikatsu</a></h3>
@@ -106,6 +143,20 @@ I am a .NET-focused software development student currently in my FPT Polytechnic
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>🚜 <a href="https://github.com/quanptatb/Construction-equipment-store">Construction-equipment-store</a></h3>
+      <p><em>Commercial machinery &amp; heavy equipment trading platform featuring full product catalog indexing, quote generation, and order processing flows.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- Enterprise Coursework & E-Commerce -->
+  <tr>
+    <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/quanptatb/SOF3081_NHOM3">SOF3081_NHOM3</a></h3>
       <p><em>Comprehensive team project applying enterprise ASP.NET Core patterns, Entity Framework Core data layers, and clean workflows.</em></p>
       <p>
@@ -114,8 +165,6 @@ I am a .NET-focused software development student currently in my FPT Polytechnic
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📦 <a href="https://github.com/quanptatb/ShopBanHang">ShopBanHang</a></h3>
       <p><em>Full e-commerce platform handling catalog data, customer carts, orders, and transactional database integrity.</em></p>
@@ -123,15 +172,6 @@ I am a .NET-focused software development student currently in my FPT Polytechnic
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/quanptatb/NET201_NHOM03">NET201_NHOM03</a></h3>
-      <p><em>Foundational .NET engineering project emphasizing clean OOP architecture, relational data access, and testing logic.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
       </p>
     </td>
   </tr>
